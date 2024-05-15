@@ -1,0 +1,32 @@
+using System;
+
+namespace FibonacciApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Ingrese la cantidad de términos de la secuencia Fibonacci:");
+
+            // Obtener la cantidad de términos ingresados por el usuario
+            int n = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Secuencia Fibonacci:");
+
+            // Imprimir la secuencia Fibonacci
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write(Fibonacci(i) + " ");
+            }
+        }
+
+        // Función recursiva para calcular el término n de la secuencia Fibonacci
+        static int Fibonacci(int n)
+        {
+            if (n <= 1)
+                return n;
+            else
+                return Fibonacci(n - 1) + Fibonacci(n - 2);
+        }
+    }
+}
