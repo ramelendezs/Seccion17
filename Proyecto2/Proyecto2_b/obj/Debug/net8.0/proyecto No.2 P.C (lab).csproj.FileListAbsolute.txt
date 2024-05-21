@@ -1,0 +1,14 @@
+C:\Users\alexa\Desktop\proyecto No.2 P.C (lab)\bin\Debug\net8.0\proyecto No.2 P.C (lab).exe
+C:\Users\alexa\Desktop\proyecto No.2 P.C (lab)\bin\Debug\net8.0\proyecto No.2 P.C (lab).deps.json
+C:\Users\alexa\Desktop\proyecto No.2 P.C (lab)\bin\Debug\net8.0\proyecto No.2 P.C (lab).runtimeconfig.json
+C:\Users\alexa\Desktop\proyecto No.2 P.C (lab)\bin\Debug\net8.0\proyecto No.2 P.C (lab).dll
+C:\Users\alexa\Desktop\proyecto No.2 P.C (lab)\bin\Debug\net8.0\proyecto No.2 P.C (lab).pdb
+C:\Users\alexa\Desktop\proyecto No.2 P.C (lab)\obj\Debug\net8.0\proyecto No.2 P.C (lab).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\proyecto No.2 P.C (lab)\obj\Debug\net8.0\proyecto No.2 P.C (lab).AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\proyecto No.2 P.C (lab)\obj\Debug\net8.0\proyecto No.2 P.C (lab).AssemblyInfo.cs
+C:\Users\alexa\Desktop\proyecto No.2 P.C (lab)\obj\Debug\net8.0\proyecto No.2 P.C (lab).csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\proyecto No.2 P.C (lab)\obj\Debug\net8.0\proyecto No.2 P.C (lab).dll
+C:\Users\alexa\Desktop\proyecto No.2 P.C (lab)\obj\Debug\net8.0\refint\proyecto No.2 P.C (lab).dll
+C:\Users\alexa\Desktop\proyecto No.2 P.C (lab)\obj\Debug\net8.0\proyecto No.2 P.C (lab).pdb
+C:\Users\alexa\Desktop\proyecto No.2 P.C (lab)\obj\Debug\net8.0\proyecto No.2 P.C (lab).genruntimeconfig.cache
+C:\Users\alexa\Desktop\proyecto No.2 P.C (lab)\obj\Debug\net8.0\ref\proyecto No.2 P.C (lab).dll
